@@ -1,20 +1,38 @@
 ### Merhaba, ben Damlanur Balkan
 
-*Bursa Uludağ Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
-*Yazılım geliştirme, siber güvenlik ve yapay zekaya ilgiliyim.
-*Otomotiv sektörünü ve bu alandaki teknolojik gelişmeleri keşfetmeye yeni başlıyorum.
-*Yapay Zeka, HTML ve JavaScript öğreniyorum.
-*Kendimi geliştirmeyi ve yeni projeler üretmeyi hedefliyorum.
+**Bursa Uludağ Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.*
+
+**Yazılım geliştirme, siber güvenlik ve yapay zekaya ilgiliyim.*
+
+**Otomotiv sektörünü ve bu alandaki teknolojik gelişmeleri keşfetmeye yeni başlıyorum.*
+
+**Yapay Zeka, HTML ve JavaScript öğreniyorum.*
+
+**Kendimi geliştirmeyi ve yeni projeler üretmeyi hedefliyorum.*
+
+---
 
 
-**Üyesi Olduğum Topluluklar:**
-*Yapay Zeka Topluluğu
-*Siber Güvenlik Topluluğu
-*Yazılım Topluluğu
-*Otomotiv Topluluğu
 
 
-*Öğrenmeye,keşfetmeye ve üretmeye devam ediyorum!
+
+
+
+***Üyesi Olduğum Topluluklar:***
+
+
+-Yapay Zeka Topluluğu
+
+-Siber Güvenlik Topluluğu
+
+-Yazılım Topluluğu
+
+-Otomotiv Topluluğu
+
+---
+
+
+**Öğrenmeye,keşfetmeye ve üretmeye devam ediyorum!**
 
 
 <!--
