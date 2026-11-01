@@ -1,4 +1,21 @@
-## Hi there 👋
+### Merhaba, ben Damlanur Balkan
+
+*Bursa Uludağ Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
+*Yazılım geliştirme, siber güvenlik ve yapay zekaya ilgiliyim.
+*Otomotiv sektörünü ve bu alandaki teknolojik gelişmeleri keşfetmeye yeni başlıyorum.
+*Yapay Zeka, HTML ve JavaScript öğreniyorum.
+*Kendimi geliştirmeyi ve yeni projeler üretmeyi hedefliyorum.
+
+
+**Üyesi Olduğum Topluluklar:**
+*Yapay Zeka Topluluğu
+*Siber Güvenlik Topluluğu
+*Yazılım Topluluğu
+*Otomotiv Topluluğu
+
+
+*Öğrenmeye,keşfetmeye ve üretmeye devam ediyorum!
+
 
 <!--
 **damlanurbalkan16-del/damlanurbalkan16-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
