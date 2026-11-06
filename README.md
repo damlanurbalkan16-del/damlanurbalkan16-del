@@ -1,18 +1,21 @@
-## 👋 Merhaba, Ben Damlanur Balkan!
+## Merhaba, Ben Damlanur Balkan! 👋
 
-Yazılım dünyasına yeni adım atmış, öğrenmeye ve keşfetmeye meraklı bir geliştirici adayıyım. 
+Yazılım dünyasında yeni şeyler keşfetmeye, üretmeye ve öğrendiklerimi projelere dönüştürmeye istekli bir geliştirici adayıyım.
 
 ## 🚀 Hakkımda
 
 * 🚀 Bursa Uludağ Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
 * 💻 Yazılım geliştirme, siber güvenlik ve yapay zeka ile ilgileniyorum.
 * 🏎️ Otomotiv sektörünü ve bu alanda teknolojik gelişmeyi keşfetmeye yeni başlıyorum.
-* 🤖 Yapay Zeka, HTML ve JavaScript öğreniyorum.
 * 🎯 Kendimi geliştirmeyi ve yeni projeler üretmeyi hedefliyorum.
   
 ## 🛠️ Kullandığım Teknolojiler ve Araçlar
-- *Diller:* HTML, CSS, JavaScript
+- *Diller:* HTML,JavaScript
 - *Araçlar:* Git, VS Code
+
+ ## 📫 İletişim
+
+* 💼 LinkedIn: [LinkedIn Profilim](https://www.linkedin.com/in/damlanur-balkan-26993a449/)
 
 <!--
 **damlanurbalkan16-del/damlanurbalkan16-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
